@@ -6,7 +6,7 @@ export const productData = [
 		description:
 			"For all your 7048245461 wholesale or single-piece needs, reach out to us! We offer competitive pricing and personalized service to ensure your satisfaction. Contact us today to explore special deals and customized solutions tailored just for you.",
 		category: "women",
-		image: "https://i.ibb.co/C5mK18t/img1.jpg",
+		image: "https://i.ibb.co/WsxZ7b4/Image1.jpg",
 		rating: 4,
 	},
 	{
